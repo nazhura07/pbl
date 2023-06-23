@@ -1,0 +1,134 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+
+}
+
+.logout {
+    border-radius: 10px;
+    border: none;
+}
+
+.sampul {
+    width: 1349px;
+    height: 530px;
+    margin-bottom: 50px;
+}
+
+.judul {
+    margin-left: 600px;
+    color: white;
+
+}
+
+.navbar {
+    width: 1320px;
+    position: fixed;
+    background-color: #F7BD34;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.penutup {
+    height: 300px;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+}
+
+.nama {
+    height: 18px;
+    width: 230px;
+    border-radius: 6px;
+
+}
+
+.nim {
+    height: 18px;
+    width: 230px;
+    border-radius: 6px;
+
+}
+
+.kelas {
+    height: 18px;
+    width: 230px;
+    border-radius: 6px;
+
+}
+
+.prodi {
+    height: 18px;
+    width: 230px;
+    border-radius: 6px;
+
+}
+
+.isidata2 {
+    margin-left: 60px;
+}
+
+.laporan {
+    height: 18px;
+    width: 230px;
+    border-radius: 6px;
+
+}
+
+.jenis {
+    height: 18px;
+    width: 230px;
+    border-radius: 6px;
+
+}
+
+.teks {
+    text-align: center;
+    font-size: 24px;
+    padding-top: 30px;
+
+}
+
+.kirim {
+    background-color: #FC8737;
+    border: none;
+    margin-left: 180px;
+    font-size: 18px;
+    height: 30px;
+    width: 60px;
+    border-radius: 10px;
+    color: white;
+}
+
+.gambardata {
+    height: 400px;
+}
+
+.pembagi {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.bungkus {
+    width: 700px;
+    height: 330px;
+    background-color: none;
+    border-radius: 30px;
+    border: 1px solid;
+    margin-left: 30px;
+    padding-bottom: 30px;
+}
+
+.pembungkus {
+    padding-left: 80px;
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+
+}

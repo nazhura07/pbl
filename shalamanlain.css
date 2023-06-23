@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+
+}
+
+.logout {
+    border-radius: 10px;
+    border: none;
+}
+
+.sampul {
+    width: 1349px;
+    height: 530px;
+    margin-bottom: 50px;
+}
+
+.judul {
+    margin-left: 600px;
+    color: white;
+
+}
+
+.navbar {
+    width: 1320px;
+    position: fixed;
+    background-color: #F7BD34;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.penutup {
+    height: 300px;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+}

@@ -1,0 +1,116 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+
+}
+
+.logout {
+    border-radius: 10px;
+    border: none;
+}
+
+.sampul {
+    width: 1349px;
+    height: 530px;
+    margin-bottom: 50px;
+}
+
+.judul {
+    margin-left: 600px;
+    color: white;
+
+}
+
+.navbar {
+    width: 1320px;
+    position: fixed;
+    background-color: #F7BD34;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.penutup {
+    height: 300px;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+}
+
+.pilihan{
+    display: flex;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-top: -100px;
+    
+}
+
+.pilihan1{
+    width: 120px;
+    height: 120px;
+    background-color: white;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px grey;
+    margin-left: 80px;
+}
+.pilihan2{
+    width: 120px;
+    height: 120px;
+    background-color: white;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px grey;
+    margin-left: 80px;
+}
+.pilihan3{
+    width: 120px;
+    height: 120px;
+    background-color: white;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 10px;
+    margin-left: 80px;
+    box-shadow: 1px 1px 1px grey;
+
+}
+.pilih{
+    width: 70px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    background-color: #FC8737;
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px grey;
+
+}
+.text1{
+    font-size: small;
+    margin-top: 20px;
+}
+.text2{
+    font-size: x-large;
+    color: #5C0000;
+}
+.text3{
+    margin-top: 20px;
+    font-style:inherit;
+}
+.fotodes {
+    box-shadow: 3px 3px 3px #FC8737;
+    width: 350px;
+    border-radius: 15px;
+}
+.deskripsi{
+    margin-left: 100px;
+}
+.bagi{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 250px;
+}
