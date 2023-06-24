@@ -28,23 +28,28 @@
         <img class="sampul" src="admin.jpg" alt="">
     </div>
     <div class="pilihan">
-        <div class="pilihan1">
+        <div class="pilihan1" >
+          <div>Laporan Tugas Akhir </div>
             <?php
-                $laporanTugasAkhir = "Laporan Tugas Akhir";
+                $laporanTugasAkhir = "pilih";
                 $linkTugasAkhir = "pilkelas.php"; // Ubah dengan URL halaman tujuan
                 echo "<a href='$linkTugasAkhir'><button class='pilih'>$laporanTugasAkhir</button></a>";
             ?>
         </div>
         <div class="pilihan2">
+          <div>Laporan Magang </div>
+
             <?php
-                $laporanMagang = "Laporan Magang";
+                $laporanMagang = "pilih";
                 $linkMagang = "pilkelas.php"; // Ubah dengan URL halaman tujuan
                 echo "<a href='$linkMagang'><button class='pilih'>$laporanMagang</button></a>";
             ?>
         </div>
         <div class="pilihan3">
+          <div>Laporan Lainnya. </div>
+
             <?php
-                $laporanLainnya = "Laporan Lainnya";
+                $laporanLainnya = "pilih";
                 $linkLainnya = "form.php"; // Ubah dengan URL halaman tujuan
                 echo "<a href='$linkLainnya'><button class='pilih'>$laporanLainnya</button></a>";
             ?>
